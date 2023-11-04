@@ -2,6 +2,8 @@
 
 ✨ 前端绝赞学习中！
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=changesuger&show_icons=true&hide_title=true&hide_border=true&theme=dracula" /><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=changesuger&layout=compact&show_icons=true&hide_border=true&theme=dracula" />
+
 <!--
 **ChangeSuger/ChangeSuger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
